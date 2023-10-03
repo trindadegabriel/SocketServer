@@ -1,0 +1,11 @@
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\bin\Debug\Socket_Server.exe.config
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\bin\Debug\Socket_Server.exe
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\bin\Debug\Socket_Server.pdb
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.csproj.AssemblyReference.cache
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.Properties.Resources.resources
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.csproj.GenerateResource.cache
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.csproj.CoreCompileInputs.cache
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.exe
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.pdb
+C:\Users\trindadegab\source\repos\Socket_Server\Socket_Server\obj\Debug\Socket_Server.FrmServer.resources
